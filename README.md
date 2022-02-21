@@ -3,7 +3,7 @@
 
 ### 👨‍🎓 **Personal profile**
 
-- 🔭 A master student of School of Mechanical Engineering and Automation at **Harbin Institute of Technology, Shenzhen(HITSZ)** and a member of [NRSL group](http://nrs-lab.com/)
+- 🔭 A master student of School of Mechanical Engineering and Automation at **Harbin Institute of Technology, Shenzhen(HITSZ)** and a member of [nROS-Lab](http://nrs-lab.com/)
 - :fire: Interested in Self-driving, SLAM, and motion planning, currently focusing on **Autonomous Exploration**
 
 ### :sparkles: **Github stats**
