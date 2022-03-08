@@ -1,5 +1,9 @@
 ## Hi! 👏
 
+[![](https://img.shields.io/badge/Bilibili-NOFEAR2016-brightgreen)](https://space.bilibili.com/201682728/video) 
+[![](https://img.shields.io/badge/YouTube-Liang-brightgreen)](https://youtube.com/channel/UCo3nTD83zMDl3ZSwxRlepDw)
+[![](https://img.shields.io/badge/Email-wyl410922%40qq.com-blue)](mailto:wyl410922@qq.com) 
+[![](https://visitor-badge.laobi.icu/badge?page_id=yanliang-wang.visitor-badge)](#)
 
 ### 👨‍🎓 **Personal profile**
 
